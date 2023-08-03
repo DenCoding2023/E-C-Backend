@@ -2,7 +2,7 @@
 ## License
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Description
-The e-coimerce industry is one of the largesst section in our economy. As a new develper is important to familiarize myslef with these concepts. 
+The e-commerce industry is one of the largesst section in our economy. As a new develper is important to familiarize myslef with these concepts. 
 By working on this project, I gain hands-on experience with Express.js, Sequelize, and MySQL, which are highly sought after in the industry. I am able
 to create a framwork to add, update, delte items in the inverntory. 
 

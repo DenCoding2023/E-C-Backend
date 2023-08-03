@@ -23,6 +23,7 @@ to create a framwork to add, update, delte items in the inverntory.
 6. Run the "Get, Post, Put and Delete request agaist the API.
 
 ## Usage
+link to video: https://watch.screencastify.com/v/IwEuNBrdyyjN6evWDvTl
 ![Alt text](<images/get all.jpg>)
 ![Alt text](<images/create .jpg>)
 ![Alt text](images/update.jpg)
@@ -34,6 +35,7 @@ to create a framwork to add, update, delte items in the inverntory.
 1. https://stackoverflow.com/questions/50354817/sequelize-decimal-data-save-with-2-decimal-points
 2. compare used as resource: https://github.com/mollysal/E-Commerce-Back-End/blob/main/models/ProductTag.js
 3. Video Guide: https://youtu.be/b3jgsfbJijw
+4. Assitance from Adress Jimenes from Calendy tutors. 
 
 ## Contact
 1. Dennis Luciano
